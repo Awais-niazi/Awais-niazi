@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgflip.com/9uvusv.gif" width="480" alt="Peter Parker at a holographic tech workstation" />
+  <img src="assets/tech-lab.gif" width="480" alt="Peter Parker at a holographic tech workstation" />
 </p>
 
 ### `$ cat about.txt`
