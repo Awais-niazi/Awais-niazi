@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/OCqWD6mIrcMQl5YQUB/giphy.gif" width="320" alt="Spider-Man typing at a computer" />
+  <img src="https://i.imgflip.com/9uvusv.gif" width="480" alt="Peter Parker at a holographic tech workstation" />
 </p>
 
 ### `$ cat about.txt`
