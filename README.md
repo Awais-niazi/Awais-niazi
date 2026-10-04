@@ -94,8 +94,6 @@ Wayfara is a step-by-step app that takes Pakistani students from choosing a Finn
 | 🤖 [**Ash**](https://github.com/Awais-niazi/ash) | An AI-powered personal OS: you send natural-language commands from your phone or the web, and Ash runs them on your server. | Django · Celery · Redis · Llama 3.3 / Claude · React · Flutter |
 | ✈️ [**Voya.ai**](https://github.com/Awais-niazi/AI-Travel-Planner-voya.ai) | An AI travel planner that builds personalised day-by-day itineraries. It has a [Next.js frontend](https://github.com/Awais-niazi/voyaAI-frontend) with trip saving and an AI travel-guide chat. | FastAPI · Go · Next.js 14 · TypeScript |
 | 💳 [**Django SaaS + Stripe**](https://github.com/Awais-niazi/Django-saas-application-with-stripe-integration) | A SaaS boilerplate with multi-tenant architecture, Stripe subscriptions and role-based access control. | Django · Stripe |
-| 📚 [**Library Management API**](https://github.com/Awais-niazi/.NET-Library-management-system) | A REST API for books, authors, members and loans, built on a Service–Controller architecture. | .NET 8 · EF Core · SQLite |
-| 🛒 [**Go Shopping Cart API**](https://github.com/Awais-niazi/Go-shopping-cart-api) | A modular checkout system with a REST API and a CLI demo, covering cart management, products and orders. | Go |
 
 <!-- Fill these in, then delete the comment markers to show them on your profile.
 
