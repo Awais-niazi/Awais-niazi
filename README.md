@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/tech-lab.gif" width="480" alt="Peter Parker at a holographic tech workstation" />
+  <img src="assets/iron-man.gif" width="500" alt="Tony Stark at his workshop: Wake up, daddy's home." />
 </p>
 
 ### `$ cat about.txt`
