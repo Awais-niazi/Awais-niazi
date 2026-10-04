@@ -14,6 +14,10 @@
   -->
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/OCqWD6mIrcMQl5YQUB/giphy.gif" width="320" alt="Spider-Man typing at a computer" />
+</p>
+
 ### `$ cat about.txt`
 
 ```console
