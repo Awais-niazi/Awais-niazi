@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=%24+whoami;Backend+%26+full-stack+developer;Python+%C2%B7+Go+%C2%B7+TypeScript;Building+APIs%2C+AI+products+and+databases+from+scratch" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=%24+whoami;Software+%26+AI+Engineer;Building+bots%2C+AI+agents+and+the+systems+behind+them;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ```console
 awais@dev:~$ whoami
-Backend & full-stack developer
+Software & AI Engineer: I build bots, AI agents and the backends they run on
 
 awais@dev:~$ cat stack.txt
 Mostly Python (Django, FastAPI) and Go, with TypeScript/Next.js on the frontend.
@@ -33,6 +33,11 @@ ash       AI agent that runs natural-language commands on my server
 ```
 
 ### `$ ls ~/stack`
+
+**ai & bots**<br>
+  <img src="https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=39d353" alt="Claude_API" />
+  <img src="https://img.shields.io/badge/Llama_3.3-0d1117?style=for-the-badge&logo=meta&logoColor=39d353" alt="Llama_3.3" />
+  <img src="https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&logo=lightning&logoColor=39d353" alt="Groq" />
 
 **languages**<br>
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353" alt="Python" />
