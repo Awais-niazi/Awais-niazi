@@ -32,9 +32,24 @@ How things work underneath: I wrote a Redis-compatible server in Go
 and I'm working through Rust.
 
 awais@dev:~$ ps aux | grep building
-wayfara   guide app for Pakistani students moving to Finland
+wayfara   [founder] guide app for Pakistani students moving to Finland
 ash       AI agent that runs natural-language commands on my server
 ```
+
+### `$ cat founder.md`
+
+#### 🇫🇮 [Wayfara](https://github.com/Awais-niazi/wayfara) · Founder
+
+> *"Why pay a consultant €1,500? Do it yourself for €25."*
+
+Wayfara is a step-by-step app that takes Pakistani students from choosing a Finnish university to their first month settled in. It replaces a €1,500 education consultant with a €25 app.
+
+- **Personalised plan:** a short onboarding form matches students to universities and builds a timeline of tasks for every phase of the move.
+- **Always-current data:** a nightly scraper refreshes university and visa data. Low-risk changes apply automatically; critical ones (deadlines, tuition, Migri figures) wait for review.
+- **AI document review** in the Premium tier.
+- **Payments built for Pakistan:** users pay on the web through Easypaisa, JazzCash or card, then unlock the mobile app. This avoids app-store fees.
+
+<img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=39d353" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=39d353" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=39d353" alt="Celery" /> <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=39d353" alt="Redis" /> <img src="https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=39d353" alt="Expo" /> <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=39d353" alt="React_Native" />
 
 ### `$ ls ~/stack`
 
@@ -76,7 +91,6 @@ ash       AI agent that runs natural-language commands on my server
 | Project | What it is | Stack |
 |---|---|---|
 | 🦅 [**Kestrel**](https://github.com/Awais-niazi/kestrel-my-own-redis-in-GO-) | A Redis-compatible in-memory data store written from scratch. It speaks RESP, so unmodified clients like `redis-cli`, go-redis and redis-py connect to it as they are. | Go |
-| 🇫🇮 [**Wayfara**](https://github.com/Awais-niazi/wayfara) | A step-by-step app that takes Pakistani students from choosing a Finnish university to their first month settled in. | Django · DRF · PostgreSQL · Expo (React Native) |
 | 🤖 [**Ash**](https://github.com/Awais-niazi/ash) | An AI-powered personal OS: you send natural-language commands from your phone or the web, and Ash runs them on your server. | Django · Celery · Redis · Llama 3.3 / Claude · React · Flutter |
 | ✈️ [**Voya.ai**](https://github.com/Awais-niazi/AI-Travel-Planner-voya.ai) | An AI travel planner that builds personalised day-by-day itineraries. It has a [Next.js frontend](https://github.com/Awais-niazi/voyaAI-frontend) with trip saving and an AI travel-guide chat. | FastAPI · Go · Next.js 14 · TypeScript |
 | 💳 [**Django SaaS + Stripe**](https://github.com/Awais-niazi/Django-saas-application-with-stripe-integration) | A SaaS boilerplate with multi-tenant architecture, Stripe subscriptions and role-based access control. | Django · Stripe |
